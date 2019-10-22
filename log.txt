@@ -1,0 +1,28 @@
+
+movie-this Aladdin
+
+
+    Title: Aladdin
+    Released: 1992
+    IMDB Rating: 8.0
+    Rotten Tomatos Rating: 94%
+    Country: USA
+    Language: English
+    Plot: A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.
+    Actors: Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman
+            
+spotify-this-song A whole new world
+
+
+    Artist: ZAYN
+    Track: A Whole New World (End Title) - From "Aladdin"
+    Preview: null
+    Album: A Whole New World (End Title) [From "Aladdin"]
+            
+concert-this ariana grande
+
+
+    Venue: The Forum
+    Location: Los Angeles, NY
+    Event Date: December 22, 2019
+            
