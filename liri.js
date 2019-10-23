@@ -3,7 +3,7 @@ var axios = require("axios");
 var moment = require("moment");
 var fs = require("fs");
 
-//For Spotify keys
+
 const env = process.env;
 
 var Spotify = require('node-spotify-api');
@@ -14,7 +14,7 @@ var spotify = new Spotify({
 });
 
 
-//Input on CLI
+
 var query = process.argv;
 var type = process.argv[2];
 var array = [];
